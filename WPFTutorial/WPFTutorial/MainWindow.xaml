@@ -24,6 +24,5 @@
         <TextBlock Name="infobox" HorizontalAlignment="Left" Margin="134,134,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="34" Width="143" TextAlignment="Center" FontSize="25"/>
         <Button Content="C" Name="reset" HorizontalAlignment="Left" Margin="60,99,0,0" VerticalAlignment="Top" Height="69" Width="69" Click="Button_C_Click"/>
         <Button Content="*" x:Name="Button_multiplication" HorizontalAlignment="Left" Margin="282,395,0,0" VerticalAlignment="Top" Height="69" Width="69" Click="Button_multiplication_Click"/>
-
     </Grid>
 </Window>
